@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mascota2</string>
+    <string name="nombre">Nombre</string>
+    <string name="raza">Raza</string>
+    <string name="fecha">Fecha</string>
+    <string name="lugar">Lugar</string>
+    <string name="mail">Mail Contacto</string>
+    <string name="telefono">Telefono Contacto</string>
+    <string name="boton_marcar">Marcar</string>
+</resources>
